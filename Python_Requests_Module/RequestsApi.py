@@ -41,7 +41,7 @@ def post_request():
     print("post url: " + url)
     headers = {"Authorization": auth_token}
     data = {
-        "name": "Naveen Automation",
+        "name": "P2P_DevOps",
         "email": generate_random_email(),
         "gender": "male",
         "status": "active",
@@ -66,7 +66,7 @@ def put_request(user_id):
     print("PUT url: " + url)
     headers = {"Authorization": auth_token}
     data = {
-        "name": "Naveen Automation Labs",
+        "name": "P2P_devops_Labs",
         "email": generate_random_email(),
         "gender": "male",
         "status": "inactive",
