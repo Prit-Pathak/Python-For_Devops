@@ -1,0 +1,39 @@
+Q1. **Simulate Reference Counting in Python**
+   - **Question**: Write a Python program that simulates reference counting to track the number of references to an object. Display when an object is collected (memory freed) based on reference counting.
+   - **Task**: Implement custom reference counting and track object lifecycle.
+
+Q2. **Simulate Cyclic Garbage Collection**
+   - **Question**: Create a Python program that creates cyclic references (e.g., A -> B -> A) and demonstrates how Python’s garbage collector detects and cleans up these objects.
+   - **Task**: Create a cyclic reference and observe garbage collection behavior.
+
+Q3. **Write a Python Program to Use Weak References**
+   - **Question**: Use the `weakref` module to create weak references to objects and explain how they prevent objects from being kept alive unnecessarily.
+   - **Task**: Implement weak references and show how they avoid memory leaks.
+
+Q4. **Optimize Memory Usage Using a Custom Garbage Collector**
+   - **Question**: Write a Python program with a custom garbage collector that minimizes memory usage by identifying and deleting unused objects based on certain criteria (e.g., inactive or out-of-scope objects).
+   - **Task**: Create a custom memory management system that tracks and frees unused objects.
+
+Q5. **Simulate a Memory Leak in Python**
+   - **Question**: Write a Python program that intentionally causes a memory leak (e.g., by maintaining references to objects that are no longer needed) and then describe how the garbage collector does or does not clean up these objects.
+   - **Task**: Create a scenario where objects are not freed due to references and explain the issue.
+
+Q6. **Memory Pool Management in Python**
+   - **Question**: Simulate a basic memory pool management system in Python, where memory is allocated in bulk and freed manually based on the need. Explain how this could optimize memory usage in performance-critical applications.
+   - **Task**: Implement a memory pool system to allocate and free memory.
+
+Q7. **Implement a "Mark and Sweep" Garbage Collection Algorithm**
+   - **Question**: Write a Python program that implements a simplified "mark and sweep" garbage collection algorithm. Mark all reachable objects and then sweep and free the unreachable objects.
+   - **Task**: Implement a basic mark-and-sweep algorithm to collect garbage.
+
+Q8. **Implement a Custom Memory Manager for a Python Program**
+   - **Question**: Write a Python class that manages memory manually, allocating and freeing memory based on the lifecycle of objects created by the class.
+   - **Task**: Create a custom memory management class that handles object creation and deletion.
+
+Q9. **Track Memory Usage of Python Objects**
+   - **Question**: Write a Python script that tracks the memory usage of objects in the program using the `sys` module. Use this to monitor how memory usage grows and shrinks as objects are created and deleted.
+   - **Task**: Use `sys.getsizeof()` to track and monitor memory usage during object lifecycle events.
+
+Q10. **Compare and Contrast the Performance of Manual Memory Management vs. Garbage Collection**
+   - **Question**: Write two versions of a Python program: one using manual memory management techniques and another using Python’s built-in garbage collector. Measure and compare the memory usage and performance of both implementations.
+   - **Task**: Implement both memory management methods and compare their effects on performance and memory usage.
