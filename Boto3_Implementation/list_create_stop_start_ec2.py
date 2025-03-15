@@ -67,9 +67,9 @@ def ec2_status(ins_id_list):
 
 def main():
     """main function to call the above defined function in the script"""
-    # ec2_create()
-    # print("Instance creation Started....")
-    # time.sleep(20)
+    ec2_create()
+    print("Instance creation Started....")
+    time.sleep(20)
     ins_id = instance_id_list()
     for i in ins_id:
         status = ec2_status([i])  # Pass a list with the single ID

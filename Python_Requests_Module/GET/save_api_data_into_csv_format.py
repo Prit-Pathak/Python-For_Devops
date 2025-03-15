@@ -1,27 +1,46 @@
-def canWePlace(stalls,mid,k):
-    n = len(stalls)
-    cntcows = 1
-    last = stalls[0]
-    for i in range(1, n):
-        if stalls[i] - last >= mid:
-            cntcows += 1
-            last = stalls[i]
-        if cntcows >= k:
-            return True
-    return False
+import requests
+import json
+import csv
+
+url = "https://api.freeapi.app/api/v1/public/randomusers/user/random"
 
 
-def aggressiveCows(stalls, k):
-    # Write your code here.
-    n = len(stalls)
-    low = 1
-    high = stalls[-1] - stalls[0]
-    res = 0
-    while low <= high:
-        mid = (low+high) // 2
-        if canWePlace(stalls,mid,k):
-            res = mid
-            low = mid + 1
-        else:
-            high = mid -1
-    return res
+def fetch_random_user(url):
+    res = requests.get(url)
+    print(res)
+    data = res.json()
+    print(data)
+    user_data = data["data"]
+    # if data["success"] and "data" in data:
+    # u_name = user_data["login"]["username"]
+    # country = user_data["location"]["country"]
+
+    # else:
+    #     raise Exception("Failed to fetch the user data")
+    return {
+        "u_name": user_data["login"]["username"],
+        "password": user_data["login"]["password"],
+        "dob": user_data["dob"]["date"],
+    }
+
+
+def save2csv(user_details, filename="details.csv"):
+    f_name = user_details.keys()
+    with open(filename, mode="w", newline="", encoding="utf-8") as file:
+        writer = csv.DictWriter(file, fieldnames=f_name)
+        writer.writeheader()
+        writer.writerow(user_details)
+    print(f"User details saved successfully in {filename}")
+
+
+def main():
+    try:
+        user_details = fetch_random_user(url)
+        print(user_details)
+        save2csv(user_details)  # Save to CSV
+    except Exception as e:
+        print(str(e))
+
+
+if __name__ == "__main__":
+    main()

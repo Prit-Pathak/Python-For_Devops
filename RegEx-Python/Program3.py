@@ -18,6 +18,7 @@ def fyperiod(text):
 
 
 def turnOver(text):
+    # pat = r"\$[0-9\.]+"
     pat = r"\$[0-9\.]+"
     mat = re.findall(pat, text)
     return mat
@@ -26,10 +27,12 @@ def turnOver(text):
 def main():
     year = fyperiod(text)
     money = turnOver(text)
-    report = dict()
-    for i in range(len(year)):
-        report[year[i]] = money[i]
-    print(f"report is : {report}")
+    print(year)
+    print(money)
+    # report = dict()
+    # for i in range(len(year)):
+    #     report[year[i]] = money[i]
+    # print(f"report is : {report}")
 
 
 if __name__ == "__main__":

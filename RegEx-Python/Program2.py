@@ -25,7 +25,8 @@ suppliers, could have a material adverse effect on our business, prospects, fina
 
 
 def func(text):
-    pat = r"(?<=Concentration of Risk: )([^\n]+)"
+    # pat = r"(?<=Concentration of Risk: )([^\n]+)"
+    pat = r"Concentration of Risk: ([^\n]+)"
     mat = re.findall(pat, text)
     return mat
 

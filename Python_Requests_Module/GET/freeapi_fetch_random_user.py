@@ -6,7 +6,9 @@ url = "https://api.freeapi.app/api/v1/public/randomusers/user/random"
 
 def fetch_random_user(url):
     res = requests.get(url)
+    print(res)
     data = res.json()
+    print(data)
     user_data = data["data"]
     if data["success"] and "data" in data:
         u_name = user_data["login"]["username"]

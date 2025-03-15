@@ -8,9 +8,10 @@ url = "https://api.freeapi.app/api/v1/public/randomjokes?limit=10&query=science&
 
 
 def getJokes(url):
-    response = requests.get(url)
-    res = response.json()
+    res = requests.get(url)
+    res = res.json()
     data = res["data"]
+    print(data)
     if res["success"] and "data" in res:
         cat = data["data"][0]["categories"]
         content = data["data"][0]["content"]
