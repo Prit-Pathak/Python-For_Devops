@@ -1,7 +1,7 @@
 """
 Optimize Memory Usage Using a Custom Garbage Collector**
-   - **Question**: Write a Python program with a custom garbage collector that minimizes memory usage by identifying and deleting unused objects based on certain criteria (e.g., inactive or out-of-scope objects).
-   - **Task**: Create a custom memory management system that tracks and frees unused objects.
+**Question**: Write a Python program with a custom garbage collector that minimizes memory usage by identifying and deleting unused objects based on certain criteria (e.g., inactive or out-of-scope objects).
+**Task**: Create a custom memory management system that tracks and frees unused objects.
 """
 
 
@@ -38,6 +38,7 @@ class MyClass:
 
     def deactivate(self):
         """Mark the object as no longer active"""
+        print(f"Deactivating {self.name}")
         self.is_active = False
 
     def is_referenced(self):

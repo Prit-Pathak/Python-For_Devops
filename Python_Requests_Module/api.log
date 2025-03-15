@@ -1,0 +1,400 @@
+2025-03-11 16:36:19,120 - INFO - starting the api hitting
+2025-03-11 16:36:19,136 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,330 - INFO - starting the api hitting
+2025-03-11 16:36:55,330 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,330 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,330 - INFO - request 1 has successfully completed : 200
+2025-03-11 16:36:55,330 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,330 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,348 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,349 - INFO - request 2 has successfully completed : 200
+2025-03-11 16:36:55,351 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,351 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,367 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,367 - INFO - request 3 has successfully completed : 200
+2025-03-11 16:36:55,367 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,369 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,385 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,385 - INFO - request 4 has successfully completed : 200
+2025-03-11 16:36:55,385 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,386 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,401 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,401 - INFO - request 5 has successfully completed : 200
+2025-03-11 16:36:55,401 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,403 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,417 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,417 - INFO - request 6 has successfully completed : 200
+2025-03-11 16:36:55,417 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,419 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,435 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,435 - INFO - request 7 has successfully completed : 200
+2025-03-11 16:36:55,435 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,436 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,450 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,450 - INFO - request 8 has successfully completed : 200
+2025-03-11 16:36:55,450 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,453 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,468 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,468 - INFO - request 9 has successfully completed : 200
+2025-03-11 16:36:55,469 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,470 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,484 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,484 - INFO - request 10 has successfully completed : 200
+2025-03-11 16:36:55,484 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,486 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,501 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,501 - INFO - request 11 has successfully completed : 200
+2025-03-11 16:36:55,501 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,501 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,518 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,519 - INFO - request 12 has successfully completed : 200
+2025-03-11 16:36:55,519 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,519 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,535 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,535 - INFO - request 13 has successfully completed : 200
+2025-03-11 16:36:55,535 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,536 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,551 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,551 - INFO - request 14 has successfully completed : 200
+2025-03-11 16:36:55,551 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,553 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,567 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,568 - INFO - request 15 has successfully completed : 200
+2025-03-11 16:36:55,568 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,569 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,584 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,586 - INFO - request 16 has successfully completed : 200
+2025-03-11 16:36:55,586 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,587 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,600 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,602 - INFO - request 17 has successfully completed : 200
+2025-03-11 16:36:55,602 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,603 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,634 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,634 - INFO - request 18 has successfully completed : 200
+2025-03-11 16:36:55,634 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,634 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,651 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,651 - INFO - request 19 has successfully completed : 200
+2025-03-11 16:36:55,652 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,652 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,668 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,668 - INFO - request 20 has successfully completed : 200
+2025-03-11 16:36:55,668 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,669 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,686 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,687 - INFO - request 21 has successfully completed : 200
+2025-03-11 16:36:55,687 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,688 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,702 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,703 - INFO - request 22 has successfully completed : 200
+2025-03-11 16:36:55,703 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,704 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,719 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,719 - INFO - request 23 has successfully completed : 200
+2025-03-11 16:36:55,719 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,720 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,736 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,737 - INFO - request 24 has successfully completed : 200
+2025-03-11 16:36:55,737 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,737 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,752 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,752 - INFO - request 25 has successfully completed : 200
+2025-03-11 16:36:55,752 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,753 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,767 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,768 - INFO - request 26 has successfully completed : 200
+2025-03-11 16:36:55,768 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,769 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,786 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,786 - INFO - request 27 has successfully completed : 200
+2025-03-11 16:36:55,786 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,787 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,802 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,803 - INFO - request 28 has successfully completed : 200
+2025-03-11 16:36:55,803 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,804 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,818 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,818 - INFO - request 29 has successfully completed : 200
+2025-03-11 16:36:55,818 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,818 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,836 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,836 - INFO - request 30 has successfully completed : 200
+2025-03-11 16:36:55,836 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,837 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,852 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,852 - INFO - request 31 has successfully completed : 200
+2025-03-11 16:36:55,853 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,853 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,869 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,870 - INFO - request 32 has successfully completed : 200
+2025-03-11 16:36:55,870 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,870 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,886 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,887 - INFO - request 33 has successfully completed : 200
+2025-03-11 16:36:55,887 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,888 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,902 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,903 - INFO - request 34 has successfully completed : 200
+2025-03-11 16:36:55,903 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,904 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,920 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,920 - INFO - request 35 has successfully completed : 200
+2025-03-11 16:36:55,920 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,921 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,935 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,936 - INFO - request 36 has successfully completed : 200
+2025-03-11 16:36:55,936 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,937 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,952 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,953 - INFO - request 37 has successfully completed : 200
+2025-03-11 16:36:55,953 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,954 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,968 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,969 - INFO - request 38 has successfully completed : 200
+2025-03-11 16:36:55,969 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,969 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:55,986 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:55,987 - INFO - request 39 has successfully completed : 200
+2025-03-11 16:36:55,987 - INFO - response: <Response [200]>
+2025-03-11 16:36:55,987 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,002 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,002 - INFO - request 40 has successfully completed : 200
+2025-03-11 16:36:56,003 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,004 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,019 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,020 - INFO - request 41 has successfully completed : 200
+2025-03-11 16:36:56,020 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,021 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,036 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,036 - INFO - request 42 has successfully completed : 200
+2025-03-11 16:36:56,036 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,037 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,053 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,053 - INFO - request 43 has successfully completed : 200
+2025-03-11 16:36:56,053 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,054 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,069 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,069 - INFO - request 44 has successfully completed : 200
+2025-03-11 16:36:56,070 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,070 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,086 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,086 - INFO - request 45 has successfully completed : 200
+2025-03-11 16:36:56,086 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,087 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,102 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,103 - INFO - request 46 has successfully completed : 200
+2025-03-11 16:36:56,103 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,104 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,118 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,119 - INFO - request 47 has successfully completed : 200
+2025-03-11 16:36:56,119 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,119 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,137 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,137 - INFO - request 48 has successfully completed : 200
+2025-03-11 16:36:56,137 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,138 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,153 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,153 - INFO - request 49 has successfully completed : 200
+2025-03-11 16:36:56,153 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,154 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,169 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,169 - INFO - request 50 has successfully completed : 200
+2025-03-11 16:36:56,169 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,169 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,185 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,185 - INFO - request 51 has successfully completed : 200
+2025-03-11 16:36:56,185 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,185 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,202 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,202 - INFO - request 52 has successfully completed : 200
+2025-03-11 16:36:56,202 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,204 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,218 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,219 - INFO - request 53 has successfully completed : 200
+2025-03-11 16:36:56,219 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,220 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,236 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,236 - INFO - request 54 has successfully completed : 200
+2025-03-11 16:36:56,236 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,237 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,252 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,252 - INFO - request 55 has successfully completed : 200
+2025-03-11 16:36:56,252 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,253 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,255 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,256 - INFO - request 56 has successfully completed : 200
+2025-03-11 16:36:56,256 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,257 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,268 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,268 - INFO - request 57 has successfully completed : 200
+2025-03-11 16:36:56,268 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,268 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,285 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,285 - INFO - request 58 has successfully completed : 200
+2025-03-11 16:36:56,285 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,286 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,301 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,302 - INFO - request 59 has successfully completed : 200
+2025-03-11 16:36:56,302 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,303 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,319 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,319 - INFO - request 60 has successfully completed : 200
+2025-03-11 16:36:56,320 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,320 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,336 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,336 - INFO - request 61 has successfully completed : 200
+2025-03-11 16:36:56,337 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,337 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,352 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,352 - INFO - request 62 has successfully completed : 200
+2025-03-11 16:36:56,352 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,353 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,368 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,369 - INFO - request 63 has successfully completed : 200
+2025-03-11 16:36:56,369 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,370 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,386 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,387 - INFO - request 64 has successfully completed : 200
+2025-03-11 16:36:56,387 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,388 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,408 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,408 - INFO - request 65 has successfully completed : 200
+2025-03-11 16:36:56,408 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,408 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,435 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,435 - INFO - request 66 has successfully completed : 200
+2025-03-11 16:36:56,435 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,436 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,450 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,451 - INFO - request 67 has successfully completed : 200
+2025-03-11 16:36:56,451 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,452 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,470 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,470 - INFO - request 68 has successfully completed : 200
+2025-03-11 16:36:56,470 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,471 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,485 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,486 - INFO - request 69 has successfully completed : 200
+2025-03-11 16:36:56,486 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,487 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,503 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,503 - INFO - request 70 has successfully completed : 200
+2025-03-11 16:36:56,503 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,504 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,519 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,520 - INFO - request 71 has successfully completed : 200
+2025-03-11 16:36:56,520 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,520 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,535 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,536 - INFO - request 72 has successfully completed : 200
+2025-03-11 16:36:56,536 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,536 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,553 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,553 - INFO - request 73 has successfully completed : 200
+2025-03-11 16:36:56,553 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,554 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,569 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,569 - INFO - request 74 has successfully completed : 200
+2025-03-11 16:36:56,569 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,571 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,586 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,587 - INFO - request 75 has successfully completed : 200
+2025-03-11 16:36:56,587 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,587 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,603 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,603 - INFO - request 76 has successfully completed : 200
+2025-03-11 16:36:56,603 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,604 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,618 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,619 - INFO - request 77 has successfully completed : 200
+2025-03-11 16:36:56,619 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,620 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,636 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,636 - INFO - request 78 has successfully completed : 200
+2025-03-11 16:36:56,636 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,637 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,650 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,651 - INFO - request 79 has successfully completed : 200
+2025-03-11 16:36:56,651 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,652 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,669 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,670 - INFO - request 80 has successfully completed : 200
+2025-03-11 16:36:56,670 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,670 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,685 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,686 - INFO - request 81 has successfully completed : 200
+2025-03-11 16:36:56,686 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,687 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,701 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,702 - INFO - request 82 has successfully completed : 200
+2025-03-11 16:36:56,702 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,703 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,718 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,718 - INFO - request 83 has successfully completed : 200
+2025-03-11 16:36:56,718 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,719 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,734 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,734 - INFO - request 84 has successfully completed : 200
+2025-03-11 16:36:56,734 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,736 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,752 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,753 - INFO - request 85 has successfully completed : 200
+2025-03-11 16:36:56,753 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,754 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,769 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,770 - INFO - request 86 has successfully completed : 200
+2025-03-11 16:36:56,770 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,770 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,785 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,785 - INFO - request 87 has successfully completed : 200
+2025-03-11 16:36:56,786 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,786 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,801 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,801 - INFO - request 88 has successfully completed : 200
+2025-03-11 16:36:56,801 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,801 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,818 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,818 - INFO - request 89 has successfully completed : 200
+2025-03-11 16:36:56,818 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,819 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,822 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,823 - INFO - request 90 has successfully completed : 200
+2025-03-11 16:36:56,823 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,823 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,837 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,837 - INFO - request 91 has successfully completed : 200
+2025-03-11 16:36:56,837 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,838 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,852 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,852 - INFO - request 92 has successfully completed : 200
+2025-03-11 16:36:56,852 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,853 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,868 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,868 - INFO - request 93 has successfully completed : 200
+2025-03-11 16:36:56,868 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,869 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,885 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,887 - INFO - request 94 has successfully completed : 200
+2025-03-11 16:36:56,887 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,888 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,902 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,902 - INFO - request 95 has successfully completed : 200
+2025-03-11 16:36:56,902 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,903 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,919 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,920 - INFO - request 96 has successfully completed : 200
+2025-03-11 16:36:56,920 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,921 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,934 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,934 - INFO - request 97 has successfully completed : 200
+2025-03-11 16:36:56,934 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,935 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,952 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,953 - INFO - request 98 has successfully completed : 200
+2025-03-11 16:36:56,953 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,954 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2025-03-11 16:36:56,969 - DEBUG - http://127.0.0.1:5000 "GET /api/check_even/10 HTTP/1.1" 200 38
+2025-03-11 16:36:56,969 - INFO - request 99 has successfully completed : 200
+2025-03-11 16:36:56,969 - INFO - response: <Response [200]>
+2025-03-11 16:36:56,970 - INFO - hitting completed 

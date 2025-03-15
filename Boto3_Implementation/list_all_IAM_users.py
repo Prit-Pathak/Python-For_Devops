@@ -10,10 +10,12 @@ def iam_users() -> list:
     """function to get list of users"""
     aws_console = boto3.Session(profile_name="default")
     users = aws_console.client("iam")
+    print(users)
     res = users.list_users()
+    print(res)
     user_list = []
-    for user in res["Users"]:
-        user_list.append(user["UserName"])
+    for item in res["Users"]:
+        user_list.append(item["UserName"])
     return user_list
 
 
