@@ -5,6 +5,7 @@ id,name,score
 1,Alice,85
 2,Bob,90
 3,Charlie,78
+
 Expected Output:
 id,name,score
 3,Charlie,78
@@ -32,5 +33,5 @@ def write2csv(filename, res):
         writer.writerows(res)
 
 
-data = rev_row("data.csv")
+data = rev_row("C:/Users/rita6/Desktop/Python-For_Devops/file_operation/file2.csv")
 write2csv("data1.csv", data)

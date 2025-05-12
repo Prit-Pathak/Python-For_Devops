@@ -25,4 +25,3 @@ def monitor_log(file_path):
 
 
 monitor_log("file.txt")
-C:\Users\rita6\Desktop\Python-For_Devops\file_operation\q5.py

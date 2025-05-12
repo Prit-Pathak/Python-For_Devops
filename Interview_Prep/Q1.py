@@ -15,8 +15,11 @@ def correct_mapping(file_name):
     """
     with open(file_name) as file:
         lines = file.readlines()
+        print(lines)
     header = lines[0].strip().split(",")
+    print(f"header -->> {header}")
     data = [line.strip().split(",") for line in lines[1:]]
+    print(f"data --->> {data}")
 
     names = sorted(set(item[0] for item in data))  # O(nlogn)
     cor_mapp = {}
@@ -27,6 +30,6 @@ def correct_mapping(file_name):
     return cor_mapp
 
 
-file_name = "details.csv"
+file_name = "C:/Users/rita6/Desktop/Python-For_Devops/Interview_Prep/file.csv"
 res = correct_mapping(file_name)
 print(res)

@@ -5,6 +5,7 @@ id,name,score
 1,Alice,85
 2,Bob,90
 3,Charlie,78
+
 User Input:
 Enter columns to swap (comma-separated, e.g., name,score): name,score
 Expected Output:
@@ -36,6 +37,6 @@ def write2csv(file, res):
         writer.writerows(res)
 
 
-res = swap_field("data.csv")
+res = swap_field("C:/Users/rita6/Desktop/Python-For_Devops/file_operation/file2.csv")
 
 write2csv("data3.csv", res)

@@ -3,14 +3,21 @@ Automation Script to list all the IAM Users in your Account.
 """
 
 import boto3
-import boto3.session
+
+# import boto3.session
+
+
+def get_session():
+    session = boto3.Session(profile_name="default")
+    return session
 
 
 def iam_users() -> list:
     """function to get list of users"""
-    aws_console = boto3.Session(profile_name="default")
-    users = aws_console.client("iam")
-    print(users)
+    Session = get_session()
+    # aws_console = boto3.Session(profile_name="default")
+    users = Session.client("iam")
+    print(f"---> {users}")
     res = users.list_users()
     print(res)
     user_list = []

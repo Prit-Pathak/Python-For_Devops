@@ -14,13 +14,14 @@ import psutil
 # print(psutil.disk_usage("/"))
 
 
-print(psutil.cpu_percent(1))
-print(psutil.cpu_stats())
-print(psutil.cpu_count())
-print(psutil.cpu_freq(1))
-print()
-print(psutil.virtual_memory()[2])
-print(psutil.virtual_memory()[3] / 1000000000)
+# print(f"0 => {psutil.cpu_percent(1)}")
+# print(f"1 => {psutil.cpu_stats()}")
+# print(f"2 => {psutil.cpu_count()}")
+# print(f"3 => {psutil.cpu_freq()}")
+# print()
+# print(psutil.virtual_memory())
+# print(psutil.virtual_memory().percent)
+# print(psutil.virtual_memory().used / 1024**3)
 
 
 # def disk_warn(path):
@@ -28,8 +29,12 @@ print(psutil.virtual_memory()[3] / 1000000000)
 #     per_usage = d_usage.percent
 #     return per_usage
 
+
 # def cpu_warn():
-#     cpu_usage = psutil.cpu
+#     cpu_usage = psutil.cpu_percent(1)  # gives o/p at interval of 1 sec
+#     return cpu_usage
+
+
 # def write2file(filename, per_usage):
 #     with open(filename, "w") as file:
 #         if per_usage > 80:
